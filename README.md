@@ -7,6 +7,12 @@ Product Picking Application
 - Create price builiding algortihm.
 - Validate availablity.
 
+FORMULA.PY
+
+- First raw code which was created on site to speed up the process. 
+- Formula used will be inocorporated later on
+- This code was pilot project for this application
+
 VERSIONS:
 
 1.0-version (November,2021)
