@@ -1,7 +1,10 @@
 # PPApp
 Product Picking Application
 
-#WORK IN PROGRESS
+# UNDER CONSTRUCTION
+Note:
+  - Some features have not been fully tested.
+  - Some planned additions have not been added.
 
 - Main goal is to have active data base with list of  articals to display to potential customers.
 - Create price builiding algortihm.
@@ -12,6 +15,21 @@ FORMULA.PY
 - First raw code which was created on site to speed up the process. 
 - Formula used will be inocorporated later on
 - This code was pilot project for this application
+
+
+ADMIN_SRCIPT.py
+- Program for employees 
+- Update the storage
+- Insert the new product with the price
+
+
+USER_SCRIPT.py
+
+- "Front" part.
+- User experience.
+- Presentation of available product.
+
+
 
 VERSIONS:
 
